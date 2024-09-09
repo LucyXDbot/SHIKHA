@@ -103,7 +103,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
 def stream_markup(_, videoid, chat_id):
     buttons = [
         [
-                        InlineKeyboardButton(
+            InlineKeyboardButton(
                 text=f"{played} {bar} {dur}",
                 url="GetTimer",
             ),
