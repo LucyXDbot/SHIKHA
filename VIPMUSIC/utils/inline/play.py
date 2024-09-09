@@ -110,14 +110,6 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url="https://t.me/darkyxsupport",
-            ),
-            InlineKeyboardButton(
-                text="Update 📡", url="https://t.me/botzz_x_hub",
-            ),
-        ],
-        [
-            InlineKeyboardButton(
                 text="๏ ᴀᴅᴠᴀɴᴄᴇ ๏",
                 callback_data=f"Pages Forw|0|{videoid}|{chat_id}",
             ),
