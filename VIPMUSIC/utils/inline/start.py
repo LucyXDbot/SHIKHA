@@ -28,7 +28,7 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(
-                text="𝖧𝖾𝗅𝗉 𝖠𝗇𝖽 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌", callback_data="settings_back_helper"
+                text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="settings_back_helper"
             )
         ],
     ]
