@@ -41,7 +41,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/DNS_NETWORK"
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/botzz_x_hub"
                     )
                 ]
             ]
@@ -58,7 +58,7 @@ async def clones(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/DNS_NETWORK"
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/botzz_x_hub"
                     )
                 ]
             ]
