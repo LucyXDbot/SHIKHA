@@ -7,7 +7,7 @@ from config import START_IMG_URL, AUTO_GCAST_MSG, AUTO_GCAST, LOGGER_ID
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Convert AUTO_GCAST to boolean based on "On" or "Off"
-AUTO_GCASTS = AUTO_GCAST.strip().lower() == "on"
+AUTO_GCASTS = AUTO_GCAST.strip().lower() == "off"
 
 START_IMG_URLS = "https://telegra.ph/file/8f4653dfada0a9bc112b5.jpg"
 
